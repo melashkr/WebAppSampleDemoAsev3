@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f0fc5101-5b4f-480d-af07-5268773f7345/resourceGroups/RG-Demo-WebApp/providers/Microsoft.Web/sites/timeregistrationdemo",
+    "appService.deploySubpath": "."
+}
